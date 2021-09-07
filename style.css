@@ -1,0 +1,27 @@
+body{
+    margin: 0px 0px;
+}
+#background{
+    position: fixed;
+    bottom: -25px;
+    left: -25px;
+}
+h1{
+    position: absolute;
+    right: 175px;
+    margin: 0px 0px;
+    font-size: 70pt;
+}
+h2{
+    position: absolute;
+    right: 150px;
+    top: 150px;
+    margin: 0px 0px;
+    font-size: 45pt;
+}
+h2:hover{
+    font-size: 55pt;
+    right: 120px;
+    top: 140px;
+}
+
