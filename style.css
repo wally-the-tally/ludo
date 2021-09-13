@@ -1,27 +1,40 @@
 body{
     margin: 0px 0px;
+    background-color: black;
+}
+title{
+    font-family: 'Futura';
 }
 #background{
     position: fixed;
     bottom: -25px;
     left: -25px;
 }
-h1{
+#heading{
     position: absolute;
     right: 175px;
     margin: 0px 0px;
     font-size: 70pt;
+    font-family: 'Chalkduster';
+    color: white;
 }
-h2{
+.mode{
     position: absolute;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
     right: 150px;
-    top: 150px;
+    top: 180px;
     margin: 0px 0px;
     font-size: 45pt;
+    font-family: 'Chalkduster';
 }
-h2:hover{
+.mode:hover{
     font-size: 55pt;
     right: 120px;
-    top: 140px;
+    top: 170px;
 }
-
+.board{
+    position: absolute;
+    
+    
+}
